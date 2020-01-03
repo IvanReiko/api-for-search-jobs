@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: A.Klapchuk
- * Date: 27.03.2018
- * Time: 13:12
- */
 
 namespace App\Http\Controllers\Dashboard\Company;
 
